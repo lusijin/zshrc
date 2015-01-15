@@ -1,4 +1,5 @@
-# setup
+# install
+
 1. install git
     curl -L http://install.ohmyz.sh | sh
 2. Path to your oh-my-zsh installation.
