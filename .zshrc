@@ -18,7 +18,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/usr/bin"
+export PATH="/usr/bin:/bin"
 
 #命令提示符
 RPROMPT=$(echo "$RED%D %T$FINISH")
