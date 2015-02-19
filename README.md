@@ -4,9 +4,9 @@
 
         curl -L http://install.ohmyz.sh | sh
         
--. Path to your oh-my-zsh installation.
+-. move old .zshrc to other name.
 
-        export ZSH=$HOME/.oh-my-zsh
+        mv ~/.zshrc ~/.zshrc.bak
 -. use this .zshrc
 
         cd ~
