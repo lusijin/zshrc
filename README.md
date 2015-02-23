@@ -6,8 +6,10 @@
         
 -. move old .zshrc to other name.
 
-        mv ~/.zshrc ~/.zshrc.bak
+```mv ~/.zshrc ~/.zshrc.bak```
 -. use this .zshrc
 
-        cd ~
-        wget https://github.com/lusijin/zshrc/raw/master/.zshrc
+```
+cd ~
+wget https://github.com/lusijin/zshrc/raw/master/.zshrc
+```
