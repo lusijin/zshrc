@@ -2,7 +2,7 @@
 
 -. install git
 
-        curl -L http://install.ohmyz.sh | sh
+```curl -L http://install.ohmyz.sh | sh```
         
 -. move old .zshrc to other name.
 
